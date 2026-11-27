@@ -6,7 +6,7 @@
 **A FinTech case study on when a simple prompt is enough and when AI needs examples.**
 
 
-Author: [Your Name] · BBA (FinTech), Chitkara Business School · Tool: [ChatGPT / Claude] · [Month Year]
+Author: Diksha Aggarwal· BBA (FinTech), Chitkara Business School · Tool: [ChatGPT] .2026-2027
 
 
 ## The case
